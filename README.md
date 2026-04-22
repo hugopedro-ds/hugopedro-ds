@@ -13,7 +13,7 @@ Most projects are developed in Python (Jupyter Notebooks / VSCode) and shared he
 - Results summarized with visuals (charts/tables) and key takeaways
 
 ## 🛠️ Core tools
-Python (Pandas, NumPy, scikit-learn) • SQL • Power BI • Git/GitHub • Google Colab
+Python (Pandas, NumPy, scikit-learn) • SQL • Power BI • Git/GitHub • Jupyter Notebooks
 
 ## 📂 How projects are organized
 Each repository follows a simple structure: **README + notebook + assets (prints) + results**.
