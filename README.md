@@ -4,7 +4,7 @@ Data Analyst focused on **BI & Analytics**, delivering end-to-end solutions — 
 
 # 🎓 Education: **BSc in Economics** • **MSc Supply Chain & Purchasing** • **MBA in Data Science & AI**.  
 
-Most projects are developed in **Google Colab** and shared here with clear documentation and reproducible results.
+Most projects are developed in Python (Jupyter Notebooks / VSCode) and shared here with clear documentation and reproducible results.
 
 
 ## 🔍 What you’ll find here
