@@ -1,20 +1,49 @@
-# Hugo Pedro — Data Analyst | BI & Analytics (Python | SQL | Power BI)
+# Hugo Pedro — Maritime Logistics & Container Shipping Analytics
 
-Data Analyst focused on **BI & Analytics**, delivering end-to-end solutions — from **data preparation and exploration** to **dashboards** and **applied machine learning**.  
+Senior maritime logistics professional combining 17+ years of international shipping and multimodal logistics operations across Angola, Mozambique and Brazil with data analytics for the container shipping market.
 
-# 🎓 Education: **BSc in Economics** • **MSc Supply Chain & Purchasing** • **MBA in Data Science & AI**.  
+Public case study portfolio on Brazilian container shipping, port operations and bilateral trade flows — built from open ANTAQ, ComexStat and UNCTAD data.
 
-Most projects are developed in Python (Jupyter Notebooks / VSCode) and shared here with clear documentation and reproducible results.
+🎓 **Education:** BSc Economics • MSc Supply Chain & Purchasing Management • MBA Data Science & AI • CIPS.
 
+📍 São Paulo, Brazil — [LinkedIn](https://www.linkedin.com/in/hugopedro/)
 
-## 🔍 What you’ll find here
-- Reproducible notebooks with concise documentation
-- End-to-end projects with clear problem framing and results
-- Results summarized with visuals (charts/tables) and key takeaways
+---
 
-## 🛠️ Core tools
-Python (Pandas, NumPy, scikit-learn) • SQL • Power BI • Git/GitHub • Jupyter Notebooks
+## 🚢 What you'll find here
 
-## 📂 How projects are organized
-Each repository follows a simple structure: **README + notebook + assets (prints) + results**.
+- **Maritime case studies** — Brazilian container shipping market, port concentration (HHI), landed-cost frameworks, bilateral trade flow asymmetry
+- **Reproducible analysis** — code, data, methodology and limitations declared per project
+- **Carrier and trade-lane intelligence** — built from open customs data, vessel call data and public carrier schedules
 
+---
+
+## 📌 Maritime portfolio (pinned)
+
+| Repository | Theme |
+|---|---|
+| **brazilian-maritime-analysis-2025** | Portfolio hub — port concentration, landed-cost, Brazil-China trade asymmetry. ANTAQ + ComexStat 2025. |
+| **brazil-westafrica-container-corridor** | Brazil → West & Central Atlantic Africa container trade. Cargo composition, geographic concentration, carrier matrix. ComexStat 2025. |
+
+---
+
+## 🛠️ Core stack
+
+**Data & Analytics:** Python (Pandas, NumPy, SciPy, scikit-learn, matplotlib) • SQL • Power BI • Power Query • Excel (advanced)
+**Workflow:** Jupyter Notebooks • VSCode • Git/GitHub
+**Methods:** ETL • exploratory analysis • statistical modelling • data visualisation • applied machine learning
+
+---
+
+## 📁 How projects are organized
+
+Each repository follows a structured layout: `README` (problem framing + key findings) + `methodology.md` (decisions, limitations) + `data/` + `scripts/` + `outputs/`. Reproducible from raw data files using documented Python scripts.
+
+---
+
+## 🔗 Find me
+
+- **LinkedIn:** [linkedin.com/in/hugopedro](https://www.linkedin.com/in/hugopedro/) — full profile, career history, contact
+- **GitHub:** [github.com/hugopedro-ds](https://github.com/hugopedro-ds)
+
+Feedback, challenges, and corrections welcome via issues or pull requests on any repository.
