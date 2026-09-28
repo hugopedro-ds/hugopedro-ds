@@ -22,22 +22,25 @@ Public case study portfolio on Brazilian container shipping, port operations and
 
 | Repository | Theme |
 |---|---|
-| **brazilian-maritime-analysis-2025** | Portfolio hub — port concentration, landed-cost, Brazil-China trade asymmetry. ANTAQ + ComexStat 2025. |
-| **brazil-westafrica-container-corridor** | Brazil → West & Central Atlantic Africa container trade. Cargo composition, geographic concentration, carrier matrix. ComexStat 2025. |
+| **[brazil-container-flows-2025](https://github.com/hugopedro-ds/brazil-container-flows-2025)** | Who carries Brazil's deep-sea containers, port waiting times, empty flows and transhipment hubs. Vessel-level carrier mapping of 324 ships. ANTAQ 2025. |
+| **[brazilian-maritime-analysis-2025](https://github.com/hugopedro-ds/brazilian-maritime-analysis-2025)** | Portfolio hub — port concentration, landed-cost, Brazil-China trade asymmetry. ANTAQ + ComexStat 2025. |
+| **[brazil-westafrica-container-corridor](https://github.com/hugopedro-ds/brazil-westafrica-container-corridor)** | Brazil → West & Central Atlantic Africa container trade. Cargo composition, geographic concentration, carrier matrix. ComexStat 2025. |
 
 ---
 
 ## 🛠️ Core stack
 
 **Data & Analytics:** Python (Pandas, NumPy, SciPy, scikit-learn, matplotlib) • SQL • Power BI • Power Query • Excel (advanced)
+
 **Workflow:** Jupyter Notebooks • VSCode • Git/GitHub
+
 **Methods:** ETL • exploratory analysis • statistical modelling • data visualisation • applied machine learning
 
 ---
 
-## 📁 How projects are organized
+## 📂 How projects are organized
 
-Each repository follows a structured layout: `README` (problem framing + key findings) + `methodology.md` (decisions, limitations) + `data/` + `scripts/` + `outputs/`. Reproducible from raw data files using documented Python scripts.
+Each repository has a README with the problem, key findings and limitations, plus the data, code (scripts or notebooks) and outputs needed to reproduce it from public raw files.
 
 ---
 
